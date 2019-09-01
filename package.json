@@ -1,0 +1,17 @@
+{
+  "name": "gametracker",
+  "version": "1.0.0",
+  "description": "Track stats for games",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueBoi904/Overwatch-API.git"
+  },
+  "author": "Cliff Mirschel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueBoi904/Overwatch-API/issues"
+  },
+  "homepage": "https://github.com/BlueBoi904/Overwatch-API#readme"
+}
